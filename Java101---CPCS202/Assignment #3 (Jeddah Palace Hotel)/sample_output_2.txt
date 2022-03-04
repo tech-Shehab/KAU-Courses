@@ -1,0 +1,264 @@
+START - Resetting Jeddah Palace Hotel system...
+	Setting all room a/c to off...Done!
+	Setting all rooms occupancy to zero...Done!
+END - Done resetting Jeddah Palace Hotel System
+
+*** Jeddah Palace Hotel - Daily Report ***
+
+AC status for all floors and rooms
+Floor  1 : OFF	OFF	
+Floor  2 : OFF	OFF	
+Floor  3 : OFF	OFF	
+
+Rooms currently occupied : 
+Floor  1 : 
+Floor  2 : 
+Floor  3 : 
+*** END OF REPORT ***
+
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Mr. Maggi Noodles
+Please enter your mobile number : 3444-434-4
+Please enter number of guests : 2
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Mr. Maggi Noodles
+	Mobile number : 	3444-434-4
+	Room Number: 		101
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Lotus Biscoff
+Please enter your mobile number : 4556-34
+Please enter number of guests : 4
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Lotus Biscoff
+	Mobile number : 	4556-34
+	Room Number: 		102
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Indomie
+Please enter your mobile number : 2332-33
+Please enter number of guests : 3
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Indomie
+	Mobile number : 	2332-33
+	Room Number: 		201
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Pepsi Cola
+Please enter your mobile number : 234343434
+Please enter number of guests : 1
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Pepsi Cola
+	Mobile number : 	234343434
+	Room Number: 		202
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Cappu Cino
+Please enter your mobile number : 4445-5455-5
+Please enter number of guests : 3
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Cappu Cino
+	Mobile number : 	4445-5455-5
+	Room Number: 		301
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Mr. Hamour Fillet
+Please enter your mobile number : 323-3245-54
+Please enter number of guests : 5
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Mr. Hamour Fillet
+	Mobile number : 	323-3245-54
+	Room Number: 		302
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Sorry room not available today!
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 3
+
+*** Jeddah Palace Hotel - Daily Report ***
+
+AC status for all floors and rooms
+Floor  1 : ON	ON	
+Floor  2 : ON	ON	
+Floor  3 : ON	ON	
+
+Rooms currently occupied : 
+Floor  1 : 1 2 
+Floor  2 : 1 2 
+Floor  3 : 1 2 
+*** END OF REPORT ***
+
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 2
+
+*** Guest Checkout Menu ***
+Please enter room number : 301
+You have checked out of room : 301
+Thank you for staying with us!
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 3
+
+*** Jeddah Palace Hotel - Daily Report ***
+
+AC status for all floors and rooms
+Floor  1 : ON	ON	
+Floor  2 : ON	ON	
+Floor  3 : OFF	ON	
+
+Rooms currently occupied : 
+Floor  1 : 1 2 
+Floor  2 : 1 2 
+Floor  3 : 2 
+*** END OF REPORT ***
+
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 1
+
+*** Guest Checkin Menu ***
+Please enter your name : Ms. Mirin Da
+Please enter your mobile number : 2343-43-43
+Please enter number of guests : 1
+*** Jeddah Palace Hotel ***
+
+Guest Details
+	Name : 			Ms. Mirin Da
+	Mobile number : 	2343-43-43
+	Room Number: 		301
+Your room is getting readied for you....Done!
+-- Enjoy your stay with us! --
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 3
+
+*** Jeddah Palace Hotel - Daily Report ***
+
+AC status for all floors and rooms
+Floor  1 : ON	ON	
+Floor  2 : ON	ON	
+Floor  3 : ON	ON	
+
+Rooms currently occupied : 
+Floor  1 : 1 2 
+Floor  2 : 1 2 
+Floor  3 : 1 2 
+*** END OF REPORT ***
+
+
+
+*** Jeddah Palace Hotel ***
+1. Guest Check in
+2. Guest Check out
+3. Print Report
+Any other number to exit
+Please enter your choice : 54
+Thank you for using the Jeddah Palace Hotel System!!!

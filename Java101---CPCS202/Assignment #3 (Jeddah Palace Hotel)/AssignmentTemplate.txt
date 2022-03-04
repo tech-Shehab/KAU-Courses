@@ -1,0 +1,54 @@
+import java.util.Scanner;
+
+public class AssignmentTemplate {
+
+	public static final int TOTAL_FLOORS=3;
+	public static final int ROOMS_PER_FLOOR=2;
+	public static final int MAX_GUESTS=6;
+	public static boolean roomACStatus[][] = new boolean[TOTAL_FLOORS][ROOMS_PER_FLOOR];
+	public static double roomTemperature[][] = new double[TOTAL_FLOORS][ROOMS_PER_FLOOR];
+	public static int roomOccupancy[][] = new int[TOTAL_FLOORS][ROOMS_PER_FLOOR];
+	
+	// DO NOT EDIT THIS METHOD
+	public static void turnAcOn(int floor, int room, boolean status) {
+		roomACStatus[floor-1][room-1] = status;
+		roomTemperature[floor-1][room-1] = 0.0;
+	}
+	
+	// DO NOT EDIT THIS METHOD
+	public static boolean getRoomACStatus(int floor, int room) {
+		return roomACStatus[floor-1][room-1];
+	}
+	
+	// DO NOT EDIT THIS METHOD
+	public static void setRoomTemperature(int floor, int room, double roomTemp) {
+		roomTemperature[floor-1][room-1] = roomTemp;
+	}
+
+	// DO NOT EDIT THIS METHOD
+	public static double getRoomTemperature(int floor, int room) {
+		return roomTemperature[floor-1][room-1];
+	}
+
+	// DO NOT EDIT THIS METHOD
+	public static void setRoomOccupancy(int floor, int room, int guests) {
+		roomOccupancy[floor-1][room-1] = guests;
+	}
+
+	// DO NOT EDIT THIS METHOD
+	public static int getRoomOccupancy(int floor, int room) {
+		return roomOccupancy[floor-1][room-1];
+	}
+
+	// DO NOT EDIT THE MAIN METHOD
+	public static void main(String[] args) {
+		// Initialize the Jeddah Hotel System
+		resetHotel();
+		
+		// Display the daily report
+		displayReport();
+		
+		// Display the main menu
+		mainMenu();
+	}
+}
