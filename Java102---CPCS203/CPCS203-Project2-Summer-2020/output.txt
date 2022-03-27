@@ -1,0 +1,131 @@
+###########################################
+***** Welcome to Flight Reservation System *****
+###########################################
+Flight SA220 Successfully Added 
+###########################################
+Passenger Saud_Ahmad Successfully Added 
+###########################################
+Flight SA230 Successfully Added 
+###########################################
+Flight SA760 Successfully Added 
+###########################################
+Flight SA222 Successfully Added 
+###########################################
+Flight SA333 Was not Added
+ You exceed the maximum number of Flights
+###########################################
+Passenger Sara_Ali Successfully Added 
+###########################################
+Passenger Samia_Samer Successfully Added 
+###########################################
+Passenger Faisal_Ahmad Successfully Added 
+###########################################
+SA230 Booked successfully for 3 passengers, PRN JED100
+###########################################
+Passenger ahlam_Ali Successfully Added 
+###########################################
+Passenger wed_Samer Successfully Added 
+###########################################
+SA760 Booked successfully for 2 passengers, PRN JED101
+###########################################
+SA230 Booked successfully for 3 passengers, PRN JED102
+###########################################
+SA760 Booked successfully for 2 passengers, PRN JED103
+###########################################
+^^^^ You exceeded the number of booking requests ^^^^
+
+Record found with the PNR JED100
+
+#####################################
+Flight SA230 Information 
+ from:Dammam
+ to: Jeddah
+ total seats: 416
+ available seats: 4
+ ticket price: 550.0
+###########################################
+
+No Record found with the PNR LND103
+
+#####################################
+
+Record found with the PNR JED101
+
+#####################################
+Flight SA760 Information 
+ from:Jeddah
+ to: London
+ total seats: 868
+ available seats: 6
+ ticket price: 4500.0
+###########################################
+
+Record found with the PNR JED102
+
+#####################################
+Flight SA230 Information 
+ from:Dammam
+ to: Jeddah
+ total seats: 416
+ available seats: 4
+ ticket price: 550.0
+###########################################
+
+Record found with the Flight Code SA760
+
+#####################################
+Flight SA760 Information 
+ from:Jeddah
+ to: London
+ total seats: 868
+ available seats: 6
+ ticket price: 4500.0
+Passengers information:
+
+--- Passenger Details --- 
+ahlam_Ali
+wed_Samer
+
+
+#####################################
+
+--- Passenger Details --- 
+Faisal_Ahmad
+Saud_Ahmad
+
+
+#####################################
+
+No Record found with the Flight Code SA70
+
+#####################################
+
+Record found with the Flight Code SA230
+
+#####################################
+Flight SA230 Information 
+ from:Dammam
+ to: Jeddah
+ total seats: 416
+ available seats: 4
+ ticket price: 550.0
+Passengers information:
+
+--- Passenger Details --- 
+Saud_Ahmad
+Sara_Ali
+Samia_Samer
+
+
+#####################################
+
+--- Passenger Details --- 
+Saud_Ahmad
+Faisal_Ahmad
+Sara_Ali
+
+
+#####################################
+Thank you for using the flight booking System, Good Bye!
+
+#####################################
